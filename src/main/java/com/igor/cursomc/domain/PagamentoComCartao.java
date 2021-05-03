@@ -1,7 +1,5 @@
 package com.igor.cursomc.domain;
 
-import java.io.Serializable;
-
 import javax.persistence.Entity;
 
 import com.igor.cursomc.domain.enums.EstadoPagamento;
